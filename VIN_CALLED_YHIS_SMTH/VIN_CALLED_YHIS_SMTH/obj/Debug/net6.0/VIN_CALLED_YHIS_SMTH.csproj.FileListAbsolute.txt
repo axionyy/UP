@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\bin\Debug\net6.0\VIN_CALLED_YHIS_SMTH.deps.json
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\bin\Debug\net6.0\VIN_CALLED_YHIS_SMTH.dll
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\bin\Debug\net6.0\VIN_CALLED_YHIS_SMTH.pdb
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\VIN_CALLED_YHIS_SMTH.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\VIN_CALLED_YHIS_SMTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\VIN_CALLED_YHIS_SMTH.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\VIN_CALLED_YHIS_SMTH.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\VIN_CALLED_YHIS_SMTH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\VIN_CALLED_YHIS_SMTH.dll
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\refint\VIN_CALLED_YHIS_SMTH.dll
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\VIN_CALLED_YHIS_SMTH.pdb
+C:\Users\Admin\source\repos\VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH\obj\Debug\net6.0\ref\VIN_CALLED_YHIS_SMTH.dll

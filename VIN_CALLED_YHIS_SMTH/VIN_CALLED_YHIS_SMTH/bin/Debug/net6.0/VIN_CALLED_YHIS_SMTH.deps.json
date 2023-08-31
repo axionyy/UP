@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VIN_CALLED_YHIS_SMTH/1.0.0": {
+        "runtime": {
+          "VIN_CALLED_YHIS_SMTH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VIN_CALLED_YHIS_SMTH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIN_CALLED_YHIS_SMTH", "VIN_CALLED_YHIS_SMTH\VIN_CALLED_YHIS_SMTH.csproj", "{02C8B85F-9F04-45F2-A532-DD3629BA675C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teedst", "teedst\teedst.csproj", "{C8CC7BAB-3AD8-4463-A406-929D08DD34B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C8B85F-9F04-45F2-A532-DD3629BA675C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C8B85F-9F04-45F2-A532-DD3629BA675C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C8B85F-9F04-45F2-A532-DD3629BA675C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C8B85F-9F04-45F2-A532-DD3629BA675C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8CC7BAB-3AD8-4463-A406-929D08DD34B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CC7BAB-3AD8-4463-A406-929D08DD34B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CC7BAB-3AD8-4463-A406-929D08DD34B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CC7BAB-3AD8-4463-A406-929D08DD34B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C24F27-24EC-4ABD-9BDB-004346DA4AB0}
+	EndGlobalSection
+EndGlobal
